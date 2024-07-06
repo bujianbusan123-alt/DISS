@@ -1,0 +1,7 @@
+[ atomtypes ]
+;name  bond_type    mass    charge   ptype          sigma      epsilon
+; OPLS2005;   Na     Na   0.00   0.00  A  4.070000e-01  0.002092e+00
+; JCP,148,074504
+   Na     Na   0.00   0.00  A  2.879000e-01  0.270000e+00
+   OW   OW	8     15.99940    -0.834       A    3.15061e-01  6.36386e-01
+   HW   HW	1      1.00800     0.417       A    0.00000e+00  0.00000e+00
